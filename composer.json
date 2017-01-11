@@ -19,17 +19,5 @@
       "email": "niraj.aswani@klevu.com",
       "homepage": "https://www.klevu.com/"
     }
-  ],
-  "autoload": {
-    "files": [
-      "Search/registration.php",
-      "Addtocart/registration.php",
-      "Content/registration.php"
-    ],
-    "psr-4": {
-
-      "Klevu\\": ""
-
-    }
-  }
+  ]
 }
